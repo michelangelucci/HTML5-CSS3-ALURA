@@ -126,7 +126,7 @@ form label, form legend {
 }
 
 .enviar {
-	width: 40%;
+	width: 30%;
 	padding: 15px 0;
 	background: orange;
 	color: #FFFFFF;
@@ -140,7 +140,7 @@ form label, form legend {
 
 .enviar:hover {
 	background: darkorange;
-	transform: scale(1.2);
+	transform: scale(1.1);
 }
 
 table {
@@ -300,6 +300,6 @@ th, td {
 	}
 
 	.enviar:hover {
-		transform: scaleX(1.1);
+		transform: scale(1.1);
 	}
 }
