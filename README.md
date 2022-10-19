@@ -11,7 +11,7 @@ final do curso de HTML5 e CSS3 da Alura.
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://github.com/michelangelucci/HTML5-CSS3-ALURA/blob/master/miniatura-site.png#vitrinedev)
+![](https://raw.githubusercontent.com/michelangelucci/HTML5-CSS3-ALURA/master/miniatura-site.png#vitrinedev)
 
 
 ## Fonte
